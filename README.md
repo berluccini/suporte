@@ -38,12 +38,13 @@
 9. <a href="pr09.md">Projeto Conta Bancária - Classe ContaController - Métodos do CRUD - Parte II</a>
 10. <a href="pr10.md">Projeto Conta Bancária - Classe ContaController - Métodos Bancários</a>
 
-<h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Classes Auxiliares</h2>
+<h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Conteúdo Auxiliar</h2>
 
 1. <a href="b01.md">Classe Math</a>
 2. <a href="b02.md">Classe String</a>
 3. <a href="b03.md">Classes Date, Calendar, LocalDate, LocalTime, LocalDateTime</a>
 4. <a href="b04.md">Classes NumberFormat e DecimalFormat</a>
+5. <a href="b05.md">Debug</a>
 
 <!-- <br /><br />
 	
